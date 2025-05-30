@@ -17,4 +17,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexeebitch&layout=compact&theme=dark)  
 
 ### 🔥 Контрибьюции  
-![Snake Animation](https://github.com/ВАШ_НИК/ВАШ_НИК/blob/output/github-contribution-grid-snake.svg) 
+![Snake Animation](https://github.com/Alexeebitch/Alexeebitch/blob/output/github-contribution-grid-snake.svg) 
