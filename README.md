@@ -6,7 +6,7 @@
 
 # About me
 I lead a small group focused on developing algorithms, mathematical models, and machine learning models. My expertise lies in the oil refining industry. My team is responsible for developing, maintaining, and monitoring these models. Currently, I am working on integrating several LLM models into the company's workflow to enhance developer productivity, support end-users, and implement ML agents for facilitating interactions between our applications and with users.
-#
+
 
 ## 🛠 Tech Stack  
 
