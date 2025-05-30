@@ -1,9 +1,8 @@
-# Привет, меня зовут [Алексей Насонов / ник]! 👋  
+# Hi, I'm Alexey Nasonov! 👋  
+**ML Engineer | Data Enthusiast**
 
-🚀 Я занимаюсь [краткое описание: разработка, дизайн, анализ данных и т. д.].  
-💡 Интересуюсь [перечислите технологии/темы].  
-🌱 Сейчас изучаю [языки/фреймворки].  
-📫 Как связаться: [Telegram/Discord/Email].  
+🚀 I specialize in the development of mathematical models and ML.
+📫 Contact me: [https://t.me/Alexeebeach].
 
 ### 🛠 Tech Stack  
 
@@ -28,11 +27,3 @@
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
-
-### 📊 Статистика  
-![Ваш GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alexeebitch&show_icons=true&theme=radical)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexeebitch&layout=compact&theme=dark)  
-
-### 🔥 Контрибьюции  
-![Snake Animation](https://github.com/Alexeebitch/Alexeebitch/blob/output/github-contribution-grid-snake.svg) 
