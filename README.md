@@ -1,4 +1,4 @@
-# Привет, меня зовут [Ваше имя / ник]! 👋  
+# Привет, меня зовут [Алексей Насонов / ник]! 👋  
 
 🚀 Я занимаюсь [краткое описание: разработка, дизайн, анализ данных и т. д.].  
 💡 Интересуюсь [перечислите технологии/темы].  
@@ -12,9 +12,9 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ### 📊 Статистика  
-![Ваш GitHub Stats](https://github-readme-stats.vercel.app/api?username=ВАШ_НИК&show_icons=true&theme=radical)  
+![Ваш GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alexeebitch&show_icons=true&theme=radical)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_НИК&layout=compact&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexeebitch&layout=compact&theme=dark)  
 
 ### 🔥 Контрибьюции  
 ![Snake Animation](https://github.com/ВАШ_НИК/ВАШ_НИК/blob/output/github-contribution-grid-snake.svg) 
