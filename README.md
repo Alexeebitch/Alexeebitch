@@ -5,11 +5,29 @@
 🌱 Сейчас изучаю [языки/фреймворки].  
 📫 Как связаться: [Telegram/Discord/Email].  
 
-### 🛠 Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Git](https://badges.aleen42.com/src/youtube.svg)
+### 🛠 Tech Stack  
+
+#### 🧠 **Machine Learning & MLOps**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E1?logo=mlflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+
+#### ☁️ **Cloud & Infrastructure**  
+![AWS S3](https://img.shields.io/badge/Amazon_S3-569A31?logo=amazon-s3&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+
+#### 📊 **Monitoring & Data**  
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+
+#### 🛠 **Development Tools**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 
 ### 📊 Статистика  
 ![Ваш GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alexeebitch&show_icons=true&theme=radical)  
