@@ -1,4 +1,4 @@
-# Hi, I'm Alexey Nasonov! 👋  
+# Hi, I'm Alexey Nasonov!
 **ML Engineer | Data Enthusiast**
 
 🚀 I specialize in the development of mathematical models and ML.\
