@@ -31,3 +31,6 @@ I lead a small group focused on developing algorithms, mathematical models, and 
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+
+![](./profile-3d-contrib/profile-green.svg#gh-light-mode-only)
+![](./profile-3d-contrib/profile-night-view.svg#gh-dark-mode-only)
